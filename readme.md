@@ -2,10 +2,6 @@
 
 ### Hey 👋, I'm levandat 👨‍💻
 
-
-
-:smiley: Member of **GSI ROM Vietnam Community(https://www.facebook.com/groups/214533623327803/)** 
-
 👨‍🎓 I'm studying Software Engineering at **[Can Tho University](https://ctu.edu.vn/)** 
 
 ### About me :eyes:
