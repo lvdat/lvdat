@@ -9,7 +9,8 @@
 - :dart: Full stack development 
 - :e-mail: Ask me about anything **[lvdat13@gmail.com](mailto:lvdat13gmail.com)**
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=lvdat&show_icons=true&hide_border=false)
+![My github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lvdat&theme=vue)
+![My Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lvdat)
 
 ### Web Back-end
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&link=https://github.com/lvdat)](https://github.com/lvdat)
