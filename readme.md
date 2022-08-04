@@ -27,7 +27,6 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white&link=https://github.com/lvdat)](https://github.com/lvdat)
 [![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js&link=https://github.com/lvdat)](https://github.com/lvdat)
 [![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=Node.js&logoColor=white)](https://github.com/lvdat)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&link=https://github.com/lvdat)](https://github.com/lvdat)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb&link=https://github.com/lvdat)](https://github.com/lvdat)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/lvdat)](https://github.com/lvdat)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&link=https://github.com/lvdat)](https://github.com/lvdat)
@@ -36,6 +35,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/lvdat)](https://github.com/lvdat) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/lvdat)](https://gitlab.com/vilogger) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/lvdat)](https://github.com/lvdat)
 
 ### Reach out to me 👓
-<a href="https://t.me/levandat"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vilogger.dev"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/vilogger.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="32px" height="32px"></a>
+<a href="https://www.facebook.com/vilogger.dev"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://t.me/levandat"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/vilogger.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="32px" height="32px"></a>
 
 
