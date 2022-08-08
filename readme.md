@@ -9,10 +9,8 @@
 - :dart: Full stack development 
 - :e-mail: Ask me about anything **[lvdat13@gmail.com](mailto:lvdat13gmail.com)**
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvdat&layout=compact&theme=tokyonight&langs_count=6" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=lvdat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165">
-</p>
+![](https://raw.githubusercontent.com/lvdat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/lvdat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ### Knownledge
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square-square&logo=php&logoColor=white&link=https://github.com/lvdat)](https://github.com/lvdat)
