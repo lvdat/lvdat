@@ -33,6 +33,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/lvdat)](https://github.com/lvdat) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/lvdat)](https://gitlab.com/vilogger) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/lvdat)](https://github.com/lvdat)
 
 ### Reach out to me 👓
-<a href="https://www.facebook.com/vilogger.dev"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://t.me/levandat"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/vilogger.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="32px" height="32px"></a>
+<a href="https://www.facebook.com/vilogger.dev"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
 
 
