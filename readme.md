@@ -14,8 +14,6 @@
 
 ### Knownledge
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square-square&logo=php&logoColor=white&link=https://github.com/lvdat)](https://github.com/lvdat)
-[![Django](https://img.shields.io/badge/-Django-14354C?style=flat-square&logo=django&logoColor=white&link=https://github.com/lvdat)](https://github.com/lvdat)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white&link=https://github.com/lvdat)](https://github.com/lvdat)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/lvdat)](https://github.com/lvdat)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/lvdat)](https://github.com/lvdat)
 [![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white&link=https://github.com/lvdat)](https://github.com/lvdat)
