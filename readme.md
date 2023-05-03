@@ -7,7 +7,7 @@
 ### About me :eyes:
 
 - :dart: Full stack development 
-- :e-mail: Ask me about anything **[lvdat13@gmail.com](mailto:lvdat13gmail.com)**
+- :e-mail: Ask me about anything **[lvdatctu@gmail.com](mailto:lvdatctugmail.com)**
 
 ![](https://raw.githubusercontent.com/lvdat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lvdat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
