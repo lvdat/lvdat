@@ -1,13 +1,10 @@
-![](https://komarev.com/ghpvc/?username=lvdat&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=lvdat&label=Profile+Views)
 ![star](https://shields.io/github/stars/lvdat)
-### Hey 👋, I'm levandat 👨‍💻
+## Hey 👋, I'm levandat 👨‍💻
 
 👨‍🎓 I'm studying Software Engineering at **[Can Tho University](https://ctu.edu.vn/)** 
 
-### About me :eyes:
-
-- :dart: Full stack development 
-- :e-mail: Ask me about anything **[lvdatctu@gmail.com](mailto:lvdatctugmail.com)**
+:e-mail: Ask me about anything **[lvdatctu@gmail.com](mailto:lvdatctugmail.com)**
 
 ![](https://raw.githubusercontent.com/lvdat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lvdat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
