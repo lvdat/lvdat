@@ -4,7 +4,7 @@
 
 👨‍🎓 I'm studying Software Engineering at **[Can Tho University](https://ctu.edu.vn/)** 
 
-:e-mail: Ask me about anything **[lvdatctu@gmail.com](mailto:lvdatctugmail.com)**
+:e-mail: Ask me about anything **[lvdat010203@gmail.com](mailto:lvdat010203@gmail.com)**
 
 ![](https://raw.githubusercontent.com/lvdat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/lvdat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
