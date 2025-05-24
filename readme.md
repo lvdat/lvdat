@@ -6,8 +6,9 @@
 
 :e-mail: Ask me about anything **[lvdat010203@gmail.com](mailto:lvdat010203@gmail.com)**
 
-![](https://raw.githubusercontent.com/lvdat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/lvdat/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![lvdat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lvdat&theme=vue-dark&hide_border=false)
+
+![lvdat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lvdat&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### Knownledge
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square-square&logo=php&logoColor=white&link=https://github.com/lvdat)](https://github.com/lvdat)
