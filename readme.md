@@ -3,7 +3,7 @@
 
 ## Hey 👋, I'm Le Van Dat 👨‍💻
 
-🎓 I'm currently studying **Software Engineering** at [Can Tho University](https://ctu.edu.vn/).
+🎓 I'm currently working as **Software Engineer**.
 
 💡 I love building things — from **Minecraft servers** and **plugins**, to **Discord bots**, and **full-stack web applications**.
 
