@@ -3,16 +3,16 @@
 
 ## Hey 👋, I'm Le Van Dat 👨‍💻
 
-🎓 I'm currently working as **Software Engineer**.
+🎓 I'm currently working as a **Software Engineer**, about **blockchain** and **web development**.
 
-💡 I love building things — from **Minecraft servers** and **plugins**, to **Discord bots**, and **full-stack web applications**.
+💡 I love building things — from **Minecraft servers** and **plugins**, to **Discord bots**,...
 
 ---
 
 ### 🚀 What I'm Working On:
+- 🌐 Software & Web Full-stack development
 - 🔧 Minecraft server management & custom plugins
 - 🤖 Discord bot development
-- 🌐 Web development (Full-stack)
 - 💻 Exploring new tech and frameworks
 
 ---
